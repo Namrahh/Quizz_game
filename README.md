@@ -1,0 +1,1 @@
+The True or False Quiz Game is a fun and engaging quiz app where players are presented with a series of statements. Your task is to determine whether each statement is true or false. The game provides instant feedback on your answers and keeps track of your score.
